@@ -8,5 +8,5 @@ Este repositório possui um [código de conduta](CODE_OF_CONDUCT.md). Todos os c
 
 ## Índice
 
-[Startups](startups.md)
-[Software Houses](software-houses.md)
+* [Startups](startups.md)
+* [Software Houses](software-houses.md)
